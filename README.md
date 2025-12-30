@@ -59,7 +59,3 @@
 <a href="https://www.instagram.com/_pd.kane_"><img src="https://img.shields.io/badge/-@_pd.kane_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/Dykhai.coi.69"><img src="https://img.shields.io/badge/-@Phan Duy Khai-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-<div align="left">
-  ![Metrics](https://metrics.lecoq.io/phanduykhai05?template=classic&isocalendar=1&stargazers=1&16personalities=1&achievements=1&calendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stargazers=false&stargazers.days=14&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=Asia%2FSaigon)
-
-</div>
