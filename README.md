@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at khaicybers@gmail.com! I'll try to respond as soon as I can.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/phanduykhai05/phanduykhai05/main/assets/code.gif" align="right" width="500"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/phanduykhai05/phanduykhai05/main/assets/code.gif" align="right" width="400"/>
 
 ### 🛠 &nbsp;Tech Stack
 
