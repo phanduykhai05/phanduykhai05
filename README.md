@@ -54,8 +54,10 @@
 
 <p align="left">
 <a href="https://pwsdata.vn"><img src="https://img.shields.io/badge/-pwsdata.vn-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<!-- <a href="https://linkedin.com/in/phanduykhai05"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/phan-duy-khai-ws"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khaicybers@gmail.com"><img src="https://img.shields.io/badge/-khaicybers@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_pd.kane_"><img src="https://img.shields.io/badge/-@_pd.kane_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/Dykhai.coi.69"><img src="https://img.shields.io/badge/-@Phan Duy Khai-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="phan-duy-khai-267a02305" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/phan-duy-khai-267a02305/en?trk=profile-badge">Phan Duy Khai</a></div>
+              
