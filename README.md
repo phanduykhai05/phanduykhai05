@@ -54,7 +54,7 @@
 
 <p align="left">
 <a href="https://pwsdata.vn"><img src="https://img.shields.io/badge/-pwsdata.vn-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/phan-duy-khai-ws"><img src="https://img.shields.io/badge/-Phan%20Duy%20Kh%E1%BA%A3i-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/phan-duy-khai-ws"><img src="https://img.shields.io/badge/-LinkeDin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khaicybers@gmail.com"><img src="https://img.shields.io/badge/-khaicybers@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_pd.kane_"><img src="https://img.shields.io/badge/-@_pd.kane_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/Dykhai.coi.69"><img src="https://img.shields.io/badge/-@Phan Duy Khai-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
